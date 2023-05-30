@@ -1,4 +1,4 @@
-module admin
+module project
 
 go 1.19
 
